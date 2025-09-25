@@ -22,3 +22,12 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ![Ellis Photo](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/StaffHeadshot-80.jpg?raw=true)
 
+## My Data Journalism Projects
+
+### Lehigh 2024 Undergraduate Class Composition by Location
+
+Each year, Lehigh University publishes a university profile consisting of admission data, class demographics, and faculty/staff information. 
+
+The following infographic focuses on the profile published for fall 2024. For the  
+
+![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
