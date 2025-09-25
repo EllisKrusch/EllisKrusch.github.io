@@ -28,6 +28,8 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 Each year, Lehigh University publishes a university profile consisting of admission data, class demographics, and faculty/staff information. 
 
-The following infographic focuses on the profile published for fall 2024. For the  
+The following infographic focuses on the profile published for fall 2024. 
+
+The following student class is broken down by location and provides insight into the composition of students at Lehigh, most of whom are from New York/New Jersey. 
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
