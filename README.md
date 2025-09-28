@@ -26,15 +26,17 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ### Lehigh 2024 Undergraduate Class Composition by Location
 
+![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
+
 Each year, Lehigh University publishes a university profile consisting of admission data, class demographics, and faculty/staff information. 
 
 The following infographic focuses on the profile [published for fall 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf). 
 
 The following student class is broken down by location and provides insight into the composition of students at Lehigh, most of whom are from New York/New Jersey. 
 
-![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
-
 ### How Effective is NYC's Congestion Pricing System?
+
+![MTA Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/Congestion%20Graphic.png?raw=true)
 
 As a Manhattan native, I was affected by the decision to finally implement the [long-discussed congestion pricing program](https://www.curbed.com/article/new-york-congestion-pricing-start-date-questions.html) at the beginning of 2025. 
 
@@ -46,8 +48,8 @@ All references to the "Central Business District" in the graph refer to the area
 
 In designing my infographic, I took the available information from the last 5 months and compared the historical average to the current average. 
 
-The historical average, which I refered to as the historical daily baseline in my graphic, was created through the MTA's [Hub Bound Travel Report](https://www.nymtc.org/en-us/Data-and-Modeling/Transportation-Data-and-Statistics/Publications/Hub-Bound-Travel) and according to the MTA "Daily vehicle volumes from the 2022 report and a pre-release copy of the 2023 report were adjusted to create baselines for each month of the year, accounting for the fact that some have comparatively low (e.g. January, July) and high (e.g. June, October) traffic volumes."
+The historical average, which I refered to as the historical daily baseline in my graphic, was created through the MTA's [Hub Bound Travel Report](https://www.nymtc.org/en-us/Data-and-Modeling/Transportation-Data-and-Statistics/Publications/Hub-Bound-Travel) and according to the Metropolitan Transit Authority (MTA) "Daily vehicle volumes from the 2022 report and a pre-release copy of the 2023 report were adjusted to create baselines for each month of the year, accounting for the fact that some have comparatively low (e.g. January, July) and high (e.g. June, October) traffic volumes."
 
 By looking at this visualization of the MTA's data, it's clear that congestion pricing has made a difference in the traffic density of downtown Manhattan. For each of the five months I looked at, the amount of vehicles entering Manhattan daily has been 10%-14% lower than the baseline number. 
 
-![MTA Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/Congestion%20Graphic.png?raw=true)
+All of the data displayed in my infographic was collected by the MTA and displayed on their metrics website. A link to the raw data can be found [here](https://metrics.mta.info/?cbdtp/vehiclereductions). 
