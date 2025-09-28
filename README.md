@@ -33,3 +33,7 @@ The following infographic focuses on the profile [published for fall 2024](https
 The following student class is broken down by location and provides insight into the composition of students at Lehigh, most of whom are from New York/New Jersey. 
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
+
+### Example
+
+![MTA Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/Congestion%20Graphic.png?raw=true)
