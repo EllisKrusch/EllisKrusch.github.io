@@ -34,7 +34,7 @@ The following student class is broken down by location and provides insight into
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
 
-### How Effective is Congestion Pricing?
+### How Effective is NYC's Congestion Pricing System?
 
 As a Manhattan native, I was affected by the decision to finally implement the long-discussed congestion pricing at the beginning of 2025. 
 
