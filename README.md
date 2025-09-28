@@ -34,6 +34,20 @@ The following student class is broken down by location and provides insight into
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
 
-### Example
+### How Effective is Congestion Pricing?
+
+As a Manhattan native, I was affected by the decision to finally implement the long-discussed congestion pricing at the beginning of 2025. 
+
+I live relatively close to 60th Street, where the pricing was set to begin, and would have to plan my trips to and from school around this. My toll entering Manhattan was usually $16, and if I was to go through the congestion pricing zone, I would sometimes have to pay up to $26 to enter Manhattan. 
+
+Other New Yorkers and I are curious just how effective this congestion pricing program has been, which is why I chose this data set. 
+
+All references to the "Central Business District" in the graph refer to the area in Manhattan located below 60th street, where congestion pricing is applied. 
+
+In designing my infographic, I took the available information from the last 5 months and compared the historical average to the current average. 
+
+The historical average, which I refered to as the historical daily baseline in my graphic, was created through the MTA's [Hub Bound Travel Report](https://www.nymtc.org/en-us/Data-and-Modeling/Transportation-Data-and-Statistics/Publications/Hub-Bound-Travel) and according to the MTA "Daily vehicle volumes from the 2022 report and a pre-release copy of the 2023 report were adjusted to create baselines for each month of the year, accounting for the fact that some have comparatively low (e.g. January, July) and high (e.g. June, October) traffic volumes."
+
+
 
 ![MTA Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/Congestion%20Graphic.png?raw=true)
