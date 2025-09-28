@@ -36,7 +36,7 @@ The following student class is broken down by location and provides insight into
 
 ### How Effective is NYC's Congestion Pricing System?
 
-As a Manhattan native, I was affected by the decision to finally implement the long-discussed congestion pricing at the beginning of 2025. 
+As a Manhattan native, I was affected by the decision to finally implement the [long-discussed congestion pricing program](https://www.curbed.com/article/new-york-congestion-pricing-start-date-questions.html) at the beginning of 2025. 
 
 I live relatively close to 60th Street, where the pricing was set to begin, and would have to plan my trips to and from school around this. My toll entering Manhattan was usually $16, and if I was to go through the congestion pricing zone, I would sometimes have to pay up to $26 to enter Manhattan. 
 
