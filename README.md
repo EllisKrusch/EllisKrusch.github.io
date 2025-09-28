@@ -48,6 +48,6 @@ In designing my infographic, I took the available information from the last 5 mo
 
 The historical average, which I refered to as the historical daily baseline in my graphic, was created through the MTA's [Hub Bound Travel Report](https://www.nymtc.org/en-us/Data-and-Modeling/Transportation-Data-and-Statistics/Publications/Hub-Bound-Travel) and according to the MTA "Daily vehicle volumes from the 2022 report and a pre-release copy of the 2023 report were adjusted to create baselines for each month of the year, accounting for the fact that some have comparatively low (e.g. January, July) and high (e.g. June, October) traffic volumes."
 
-
+By looking at this visualization of the MTA's data, it's clear that congestion pricing has made a difference in the traffic density of downtown Manhattan. For each of the five months I looked at, the amount of vehicles entering Manhattan daily has been 10%-14% lower than the baseline number. 
 
 ![MTA Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/Congestion%20Graphic.png?raw=true)
