@@ -53,3 +53,9 @@ The historical average, which I refered to as the historical daily baseline in m
 By looking at this visualization of the MTA's data, it's clear that congestion pricing has made a difference in the traffic density of downtown Manhattan. For each of the five months I looked at, the amount of vehicles entering Manhattan daily has been 10%-14% lower than the baseline number. 
 
 All of the data displayed in my infographic was collected by the MTA and displayed on their metrics website. A link to the raw data can be found [here](https://metrics.mta.info/?cbdtp/vehiclereductions). 
+
+### Lehigh vs Lafayette Timeline Visualization Project
+
+
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTtpWTgNF8YHms1qkyKCJndKrG02rGQQEceBd6dUWzsQnJdAgZZ8QkeXmyD0Q0C_-3w5yfAGig644Fw&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
