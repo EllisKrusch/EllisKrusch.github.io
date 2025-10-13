@@ -62,5 +62,6 @@ This project focuses on the long-standing Lehigh-Lafayette rivalry. The schools 
 
 ### Ford Motor Company Timeline Visualization Project
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSTZTgUrO05C4qnI0cF3r4atSBjTEfv4hVyFuFVThHYpkRZPiRlPE_fl9M8IaA_Dkc9dlAVOScImQ2_&font=OldStandard&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+My project focused on the Ford Motor Company because of how innovative and iconic of a brand they are. I'm personally interested in Ford and cars, and they have a really interesting company history. Everything from the assembly line invention to making pickup trucks affordable and available has solidified Ford's worldwide recognition, and I've tried to include as much as possible in my timeline. While Ford could have a very large timeline with how much they have done as a company, I tried to pick iconic and culture-changing moments to include in my timeline. 
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSTZTgUrO05C4qnI0cF3r4atSBjTEfv4hVyFuFVThHYpkRZPiRlPE_fl9M8IaA_Dkc9dlAVOScImQ2_&font=OldStandard&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
