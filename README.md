@@ -59,3 +59,8 @@ All of the data displayed in my infographic was collected by the MTA and display
 This project focuses on the long-standing Lehigh-Lafayette rivalry. The schools are located 17 miles apart in Pennsylvania's Lehigh Valley, and share a deep-seated and passionate history of competition that extends beyond football to all of their athletic contests, according to Wikipedia. The week leading up to the game is marked by a spirited "Rivalry Week" on both campuses, featuring student activities and some traditions. The Lehigh-Lafayette rivalry is a major event for students, alumni, and the surrounding community, and often draws sellout crowds and national media attention.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTtpWTgNF8YHms1qkyKCJndKrG02rGQQEceBd6dUWzsQnJdAgZZ8QkeXmyD0Q0C_-3w5yfAGig644Fw&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+### Ford Motor Company Timeline Visualization Project
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSTZTgUrO05C4qnI0cF3r4atSBjTEfv4hVyFuFVThHYpkRZPiRlPE_fl9M8IaA_Dkc9dlAVOScImQ2_&font=OldStandard&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
