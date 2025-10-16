@@ -1,4 +1,4 @@
-# Ellis' Portfolio Page
+# Ellis' Data Journalism Portfolio Page
 
 ## About Me 
 
@@ -65,3 +65,6 @@ This project focuses on the long-standing Lehigh-Lafayette rivalry. The schools 
 My project focused on the Ford Motor Company because of how innovative and iconic of a brand they are. I'm personally interested in Ford and cars, and they have a really interesting company history. Everything from the assembly line invention to making pickup trucks affordable and available has solidified Ford's worldwide recognition, and I've tried to include as much as possible in my timeline. While Ford could have a very large timeline with how much they have done as a company, I tried to pick iconic and culture-changing moments to include in my timeline. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSTZTgUrO05C4qnI0cF3r4atSBjTEfv4hVyFuFVThHYpkRZPiRlPE_fl9M8IaA_Dkc9dlAVOScImQ2_&font=OldStandard&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+<iframe title="2020 Lehigh University College Enrollment" aria-label="Pie Chart" id="datawrapper-chart-Kg8hN" src="https://datawrapper.dwcdn.net/Kg8hN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="614" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
