@@ -79,3 +79,7 @@ Part of this project was also meant to explore the comparison between NYC's yell
 For reference, while observing my chart below, "Medallion Taxi's" refer to the "iconic" yellow taxi cabs. "Green Street Hail Livery" refers to the fleet of green-painted specialized taxis that may not accept riders south of West 110th St and East 96th St. "For-Hire Services Vehicle" refers to private ride-hailing services such as Uber and Lyft. 
 
 <iframe title="Eco-Friendly Fleet Size of NYC Taxi's (as of 2020)" aria-label="Stacked column chart" id="datawrapper-chart-aUNFh" src="https://datawrapper.dwcdn.net/aUNFh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="530" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+### 2019 Top Biking Cities Map
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1lsTzbkxZHv_DTqxn5gtk5GOHc0WwjoM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
