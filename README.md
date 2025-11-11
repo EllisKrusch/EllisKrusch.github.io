@@ -24,6 +24,8 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ## My Data Journalism Projects
 
+<span style="color: red;">This text is red.</span>
+
 ### Lehigh 2024 Undergraduate Class Composition by Location
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
