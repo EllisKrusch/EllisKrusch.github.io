@@ -24,7 +24,7 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ## My Data Journalism Projects
 
-<span style="color: red;">This text is red.</span>
+<p style="color: #00FF00;">This paragraph is green using a hex code.</p>
 
 ### Lehigh 2024 Undergraduate Class Composition by Location
 
