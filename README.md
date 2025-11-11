@@ -24,7 +24,7 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ## My Data Journalism Projects
 
-<p style="color: #00FF00;">This paragraph is green using a hex code.</p>
+<p style="color: #00FF00;">This is the hex code text.</p>
 
 ### Lehigh 2024 Undergraduate Class Composition by Location
 
@@ -85,6 +85,8 @@ For reference, while observing my chart below, "Medallion Taxi's" refer to the "
 ### 2019 Top Biking Cities Map
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1lsTzbkxZHv_DTqxn5gtk5GOHc0WwjoM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+This project served as an in-class example of the top biking cities in the world. We explored the 
 
 ### Top 10 Museums in the World
 
