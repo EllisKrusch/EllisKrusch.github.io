@@ -84,9 +84,11 @@ For reference, while observing my chart below, "Medallion Taxi's" refer to the "
 
 ### 2019 Top Biking Cities Map
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1lsTzbkxZHv_DTqxn5gtk5GOHc0WwjoM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+This project served as an in-class example of the top biking cities in the world. We explored using an application called Google My Maps, which allowed for the creation of an interactive and personalized map. 
 
-This project served as an in-class example of the top biking cities in the world. We explored the 
+We were successfully able to modify each city on the map to show an image, its ranking, and more info when a user clicks on the pinpoint. 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1lsTzbkxZHv_DTqxn5gtk5GOHc0WwjoM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ### Top 10 Museums in the World
 
