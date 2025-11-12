@@ -1,18 +1,18 @@
-# Ellis' Data Journalism Portfolio Page
+# <p style="color: green;">Ellis' Data Journalism Portfolio Page</p>
 
-## About Me 
+## <p style="color: red;">About Me</p>
 
 I'm Ellis, a Lehigh University journalism major with minors in marketing and earth and environmental science. During the summer, I was a Marketing Intern at Branded Hospitality Ventures, building strategic partnerships with industry-leading brands, supporting podcast production, and developing the company's newsletter. I also have corporate experience as a part-time Mondelēz International Sales Support Specialist, the global leader in snacking, home to brands such as Oreo, Ritz, and Sour Patch Kids.
 
 At Lehigh, I am the Deputy News Editor of The Brown and White, the student newspaper, where I contribute to proofreading articles and overseeing staff writers to improve the reporting standard. My background blends strategic partnerships, leadership in content initiatives, and marketing expertise, and I am passionate about driving growth and helping organizations create impactful connections with their audiences.
 
-## My Work
+## <p style="color: red;">My Work</p>
 
 [View My Media Portfolio](https://kruschmedia.myportfolio.com/home?fbclid=PAdGRleAM5oE1leHRuA2FlbQIxMQABp2qiMk7LCXN8AtdBaybBuKsLVg971xcAhyTzMwHhdRQGjBX_gkuuVH-U36Nj_aem_bkOHdwQ5yEjl47MBzBuiPA)
 
 [View My Published Stories](https://thebrownandwhite.com/author/erk623/)
 
-## Connect With Me
+## <p style="color: red;">Connect With Me</p>
 
 [LinkedIn](https://www.linkedin.com/in/ellis-krusch/)
 
@@ -22,13 +22,9 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ![Ellis Photo](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/StaffHeadshot-80.jpg?raw=true)
 
-## My Data Journalism Projects
+## <p style="color: red;">My Data Journalism Projects</p>
 
-<p style="color: #00FF00;">This is the hex code text.</p>
-
-<p style="color: green;">This text will be green.</p>
-
-### Lehigh 2024 Undergraduate Class Composition by Location
+### <p style="color: blue;">Lehigh 2024 Undergraduate Class Composition by Location</p>
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
 
@@ -38,7 +34,7 @@ The following infographic focuses on the profile [published for fall 2024](https
 
 The following student class is broken down by location and provides insight into the composition of students at Lehigh, most of whom are from New York/New Jersey. 
 
-### How Effective is NYC's Congestion Pricing System?
+### <p style="color: blue;">How Effective is NYC's Congestion Pricing System?</p>
 
 ![MTA Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/Congestion%20Graphic.png?raw=true)
 
@@ -58,13 +54,13 @@ By looking at this visualization of the MTA's data, it's clear that congestion p
 
 All of the data displayed in my infographic was collected by the MTA and displayed on their metrics website. A link to the raw data can be found [here](https://metrics.mta.info/?cbdtp/vehiclereductions). 
 
-### Lehigh vs Lafayette Timeline Visualization Project
+### <p style="color: blue;">Lehigh vs Lafayette Timeline Visualization Project</p>
 
 This project focuses on the long-standing Lehigh-Lafayette rivalry. The schools are located 17 miles apart in Pennsylvania's Lehigh Valley, and share a deep-seated and passionate history of competition that extends beyond football to all of their athletic contests, according to Wikipedia. The week leading up to the game is marked by a spirited "Rivalry Week" on both campuses, featuring student activities and some traditions. The Lehigh-Lafayette rivalry is a major event for students, alumni, and the surrounding community, and often draws sellout crowds and national media attention.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTtpWTgNF8YHms1qkyKCJndKrG02rGQQEceBd6dUWzsQnJdAgZZ8QkeXmyD0Q0C_-3w5yfAGig644Fw&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Ford Motor Company Timeline Visualization Project
+### <p style="color: blue;">Ford Motor Company Timeline Visualization Project</p>
 
 My project focused on the Ford Motor Company because of how innovative and iconic of a brand they are. I'm personally interested in Ford and cars, and they have a really interesting company history. Everything from the assembly line invention to making pickup trucks affordable and available has solidified Ford's worldwide recognition, and I've tried to include as much as possible in my timeline. While Ford could have a very large timeline with how much they have done as a company, I tried to pick iconic and culture-changing moments to include in my timeline. 
 
@@ -74,7 +70,7 @@ My project focused on the Ford Motor Company because of how innovative and iconi
 
 <iframe title="Student Percentages in Lehigh's Colleges Over 10 Years" aria-label="Line chart" id="datawrapper-chart-gzqOZ" src="https://datawrapper.dwcdn.net/gzqOZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="540" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-### NYC TLC Fleet Analysis 
+### <p style="color: blue;">NYC TLC Fleet Analysis</p>
 
 I was curious about how representative hybrid or electric vehicles are in NYC's Taxi/Limousine fleet. As a native New Yorker, I've been in many taxis over my lifetime and have noticed a shift in recent years towards more hybrid vehicles. Many of the yellow taxis I've taken are now Toyota Rav4s or Toyota Siennas, both of which run on hybrid engines. I remember before COVID that many of the taxis were old Ford Crown Victorias or Ford Expeditions, both of which had fairly large and certainly not hybrid gasoline engines. 
 
@@ -84,7 +80,7 @@ For reference, while observing my chart below, "Medallion Taxi's" refer to the "
 
 <iframe title="Eco-Friendly Fleet Size of NYC Taxi's (as of 2020)" aria-label="Stacked column chart" id="datawrapper-chart-aUNFh" src="https://datawrapper.dwcdn.net/aUNFh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="530" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-### 2019 Top Biking Cities Map
+### <p style="color: blue;">2019 Top Biking Cities Map</p>
 
 This project served as an in-class example of the top biking cities in the world. We explored using an application called Google My Maps, which allowed for the creation of an interactive and personalized map. 
 
@@ -94,7 +90,7 @@ You can also view the raw data [here](https://docs.google.com/spreadsheets/d/1Nw
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1lsTzbkxZHv_DTqxn5gtk5GOHc0WwjoM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-### Top 10 Museums in the World
+### <p style="color: blue;">Top 10 Museums in the World</p>
 
 For this project, I explored what was considered to be the "best" 10 museums around the world. I pulled my information from a National Geographic article that outlined why each destination was chosen and why it was so significant. To view the referenced article and read more, visit the description included on my published map. 
 
@@ -102,7 +98,7 @@ All of these museums hold invaluable and iconic works of art, many of which I le
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=165zJ4SrIpvLhtEC2gWSmNttXMLYw8Uw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-### Lehigh University Party Data Visualization
+### <p style="color: blue;">Lehigh University Party Data Visualization</p>
 
 I experimented with the Tableau Public tool for this data visualization. I was curious about how survey responses would vary across class standing and gender. 
 
@@ -114,7 +110,7 @@ You can find the complete breakdown of each of these graphs by viewing the inter
 
 <div class='tableauPlaceholder' id='viz1761452175412' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataJournalismClassExample&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DataJournalismClassExample&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataJournalismClassExample&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1761452175412'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) {vizElement.style.minWidth='420px';vizElement.style.maxWidth='800px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) {vizElement.style.minWidth='420px';vizElement.style.maxWidth='800px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
-### Higher Education Institutions Distribution
+### <p style="color: blue;">Higher Education Institutions Distribution</p>
 
 The following map was created by using data gathered by the IPEDS, which stands for the Integrated Postsecondary Education Data System. It is the primary system the U.S. Department of Education's National Center for Education Statistics, or NCES, uses to collect data from postsecondary institutions which participate in federal student financial aid programs.
 
@@ -122,7 +118,7 @@ You can find the most up-to-date higher education data from IPEDS [here](https:/
 
 <div class='tableauPlaceholder' id='viz1762442459685' style='position: relative'><noscript><a href='#'><img alt='2013 Higher Education IPEDS Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HigherEducationDataset_17624423059900&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HigherEducationDataset_17624423059900&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HigherEducationDataset_17624423059900&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1762442459685');var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
-### Recent Earthquake Visualization and Analysis
+### <p style="color: blue;">Recent Earthquake Visualization and Analysis</p>
 
 This project focused on the near-real-time earthquake data that the United States Geological Survey or USGS, provides. As an environmental science minor, this data has always fascinated me since I learned about it a few years ago. I hadn't realized that there were so many siesmic sensors located around the world that all connect to one main hub. 
 
