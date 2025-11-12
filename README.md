@@ -113,4 +113,18 @@ You can find the complete breakdown of each of these graphs by viewing the inter
 
 ### Recent Earthquake Visualization and Analysis
 
+This project focused on the near-real-time earthquake data that the United States Geological Survey or USGS, provides. As an environmental science minor, this data has always fascinated me since I learned about it a few years ago. I hadn't realized that there were so many siesmic sensors located around the world that all connect to one main hub. 
+
+The USGS collects all of this data and publishes it to the web frequently and automatically. I also found it interesting how often earthquakes happen. While larger-scale earthquakes don't happen that often, many smaller but still impactful earthquakes happen each and every day. 
+
+With this in mind, I pulled the last seven days' worth of earthquake data from the USGS to make a useful and interactive data visualization, especially for those interested in earthquakes or studying environmental science. 
+
+Please drag the following map around by holding the shift key and dragging with your mouse. You can also use the + and - buttons on the top left of the map to zoom in and out. 
+
+Note also that there are two separate tabs or maps to this project, but they still connect. You can access each one by clicking on the text located above the map, which will also explain what each map is showing. 
+
+The first map allows you to filter by automatic detections, which means that one of the seismographs automatically recorded and uploaded this quake, or by reviewed detections, which means a human at the USGS reviewed and confirmed the quake. The second map allows you to filter by the depth of the quake, which helps give insight into what fault line or what shift caused the quake. Scientists can go even further with this data by entering specific fault line depth into the graphs filter, and finding whether a quake occured along it. 
+
+You can view the full raw dataset [here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) on the USGS website. 
+
 <div class='tableauPlaceholder' id='viz1762912759090' style='position: relative'><noscript><a href='#'><img alt='Earthquakes in the Last Seven Days (11&#47;3-11&#47;10)By Ellis KruschData provided by the USGS: https:&#47;&#47;earthquake.usgs.gov&#47;earthquakes&#47;feed&#47;v1.0&#47;csv.php ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YM&#47;YMCKQGRWN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;YMCKQGRWN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YM&#47;YMCKQGRWN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1762912759090'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
