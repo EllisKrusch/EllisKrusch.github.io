@@ -26,6 +26,8 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 <p style="color: #00FF00;">This is the hex code text.</p>
 
+<p style="color: green;">This text will be green.</p>
+
 ### Lehigh 2024 Undergraduate Class Composition by Location
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
