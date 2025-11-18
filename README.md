@@ -6,13 +6,13 @@ I'm Ellis, a Lehigh University journalism major with minors in marketing and ear
 
 At Lehigh, I am the Deputy News Editor of The Brown and White, the student newspaper, where I contribute to proofreading articles and overseeing staff writers to improve the reporting standard. My background blends strategic partnerships, leadership in content initiatives, and marketing expertise, and I am passionate about driving growth and helping organizations create impactful connections with their audiences.
 
-## <p style="color: red;">My Work</p>
+<h2 style="color: red;">My Work</h2>
 
 [View My Media Portfolio](https://kruschmedia.myportfolio.com/home?fbclid=PAdGRleAM5oE1leHRuA2FlbQIxMQABp2qiMk7LCXN8AtdBaybBuKsLVg971xcAhyTzMwHhdRQGjBX_gkuuVH-U36Nj_aem_bkOHdwQ5yEjl47MBzBuiPA)
 
 [View My Published Stories](https://thebrownandwhite.com/author/erk623/)
 
-## <p style="color: red;">Connect With Me</p>
+<h2 style="color: red;">Connect With Me</h2>
 
 [LinkedIn](https://www.linkedin.com/in/ellis-krusch/)
 
@@ -22,9 +22,9 @@ At Lehigh, I am the Deputy News Editor of The Brown and White, the student newsp
 
 ![Ellis Photo](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/StaffHeadshot-80.jpg?raw=true)
 
-## <p style="color: red;">My Data Journalism Projects</p>
+<h2 style="color: red;">My Data Journalism Projects</h2>
 
-### <p style="color: blue;">Lehigh 2024 Undergraduate Class Composition by Location</p>
+<h3 style="color: blue;">Lehigh 2024 Undergraduate Class Composition by Location</h3>
 
 ![Infographic](https://github.com/EllisKrusch/EllisKrusch.github.io/blob/main/%20Infographic.png?raw=true)
 
