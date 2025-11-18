@@ -1,4 +1,5 @@
 # <p style="color: green;">Ellis' Data Journalism Portfolio Page</p>
+<h1 style="color: red;">This is a Red Header</h1>
 
 ## <p style="color: red;">About Me</p>
 
