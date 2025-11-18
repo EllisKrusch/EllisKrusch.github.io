@@ -1,7 +1,6 @@
-# <p style="color: green;">Ellis' Data Journalism Portfolio Page</p>
-<h1 style="color: red;">This is a Red Header</h1>
+<h1 style="color: green;">Ellis' Data Journalism Portfolio Page</h1>
 
-## <p style="color: red;">About Me</p>
+<h2 style="color: red;">About Me</h2>
 
 I'm Ellis, a Lehigh University journalism major with minors in marketing and earth and environmental science. During the summer, I was a Marketing Intern at Branded Hospitality Ventures, building strategic partnerships with industry-leading brands, supporting podcast production, and developing the company's newsletter. I also have corporate experience as a part-time Mondelēz International Sales Support Specialist, the global leader in snacking, home to brands such as Oreo, Ritz, and Sour Patch Kids.
 
